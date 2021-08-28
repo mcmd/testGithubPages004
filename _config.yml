@@ -21,7 +21,7 @@
 title: mcmd.io
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  minima 3
+  minima 3.0s
 domain: "mcmd.github.io"
 baseurl: "/testGithubPages004" # the subpath of your site, e.g. /blog
 url: "https://mcmd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
