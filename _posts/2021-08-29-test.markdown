@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "prueba de post"
+date:   2021-08-29 01:41:24 +0000
+categories: jekyll update
+
+---
+
+
+
+h
+
+## esto es una pruba
+
+de c'omo qeuda el texto con typora
+
+--
+
+# este es el t'itulo
+
+no me digas nada m'as
+
+jflkajsflkj;lsakfj ksalflk lkfdalkf d
+
+@;''''f sf'
+
+
+
+@  lkjfsdañlk No sé po qu
+
+kjsflak 
+
