@@ -32,6 +32,10 @@ github_username:  jekyll
 # theme: minima
 
 remote_theme: jekyll/minima
+
+minima:
+  skin: "classic-mcmd"
+
 plugins:
   - jekyll-feed
 
