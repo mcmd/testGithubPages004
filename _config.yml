@@ -36,6 +36,8 @@ remote_theme: jekyll/minima
 minima:
   skin: "classic-mcmd"
 
+markdown: kramdown
+
 plugins:
   - jekyll-feed
 
