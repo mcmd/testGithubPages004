@@ -5,12 +5,12 @@ date:   2021-08-29 01:41:24 +0000
 categories: jekyll update
 
 ---
-
+TOC
 {:toc}
 
 h
 
-## esto es una pruba
+## esto es una prueba
 
 de c'omo qeuda el texto con typora
 
